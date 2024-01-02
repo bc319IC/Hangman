@@ -10,10 +10,17 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 - License Information
 
 ## Installation
+None
 
 ## Usage
+Run the appropraite files in the following section regarding their descriptions.
 
 ## File Structure
+- milestone_2.py
+Checking if the input is valid.
+
+- milestone_3.py
+checking if the guess character is in the word.
 
 ## License Information
 Template provided by AiCore
