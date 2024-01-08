@@ -22,7 +22,11 @@ Checking if the input is valid.
 
 - milestone_3.py
 
-checking if the guess character is in the word.
+Checking if the guess character is in the word.
+
+- milestone_4.py
+
+Implementation of the Hangman class which takes in a word list to start the game.
 
 ## License Information
 Template provided by AiCore
