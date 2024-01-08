@@ -10,7 +10,7 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 - License Information
 
 ## Installation
-None
+None, just clone the repository.
 
 ## Usage
 Run the appropraite files in the following section regarding their descriptions.
@@ -27,6 +27,10 @@ Checking if the guess character is in the word.
 - milestone_4.py
 
 Implementation of the Hangman class which takes in a word list to start the game.
+
+- milestone_5.py
+
+Completed version of the Hangman game against the computer with the default number of lives set to 5.
 
 ## License Information
 Template provided by AiCore
