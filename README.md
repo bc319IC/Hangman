@@ -38,3 +38,4 @@ Completed version of the Hangman game against the computer with the default numb
 The hangman class consists of initialising the class attributes followed by two class functions of which one checks whether the guessed letter is a valid/repeated input and the other checks whether the guessed letter is in the word and changes the number of lives accordingly. Upon guessing the word or running out of lives, the game is ended.
 
 ## License Information
+This project is licensed under the terms of the MIT license.
